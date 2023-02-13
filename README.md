@@ -1,6 +1,7 @@
 # fabric-physics-opengl
 
-Controls
+Controls:
+
 Q - Move camera up
 
 E - Move camera down 
