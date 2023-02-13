@@ -1,15 +1,24 @@
 # fabric-physics-opengl
 
 Controls
-Q - Move camera up 
+Q - Move camera up
+
 E - Move camera down 
+
 W - Move camera forward
+
 S - Move camera backward
+
 A - Move camera leftward
+
 D - Move camera rightward
+
 T - Disallow camera movement (useful for interacting with Imgui interface)
+
 1 - Default rendering mode
+
 2 - Wireframe rendering mode
+
 3 - Dot grid rendering mode
 
 Imgui interface allows for user to:
@@ -19,8 +28,9 @@ Imgui interface allows for user to:
   - Change wind patterns
   - Change rendering modes (wireframe, dot grid, normal)
   - Disable user cursor
-  
-#Rendering Modes
+
+Rendering Modes:
+
 Normal
 ![Comp 1 (0-00-17-06)_1](https://user-images.githubusercontent.com/113802864/218384443-82111f6c-8a1a-42f6-88da-f60ecf2bd9f4.png)
 
