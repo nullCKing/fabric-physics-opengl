@@ -1,6 +1,8 @@
 # fabric-physics-opengl
 
-- Made with OpenGL and Dear Imgui.  
+- Implemented a fabric-wind relational physics engine using verlet integration for accurate simulations, and rendered the fabric using OpenGL graphics. Designed a user-friendly interface utilizing Dear Imgui, enabling user control over various simulation physics parameters, such as wind direction and texture mapping.
+
+- [Click here for a youtube video demonstrating the program.](https://www.youtube.com/watch?v=49C1CoJly08)
 
 Controls:
 
